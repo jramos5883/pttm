@@ -11,4 +11,8 @@
 
 .nav-links {
   text-decoration: none;
+  font-family: "Luckiest Guy", cursive;
+  padding: 1%;
+  color: black;
+  font-size: 1.25rem;
 }

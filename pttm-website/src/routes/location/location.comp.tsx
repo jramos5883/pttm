@@ -8,7 +8,7 @@ const Location = () => {
     <div>
       <MyMap />
       <div className="info-content-container container-fluid">
-        <h2 className="info-header">Business Information</h2>
+        <h2 className="info-header my-headers">- Business Information -</h2>
         <div className="row">
           <div className="col-md-6">
             <div className="info-content">

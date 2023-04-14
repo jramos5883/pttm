@@ -13,7 +13,9 @@ const AboutUs = () => {
         />
       </div>
       <div className="aboutus-content-container container-fluid">
-        <h1 className="aboutus-content aboutus-header">About Us</h1>
+        <h1 className="aboutus-content aboutus-header my-headers">
+          - About Us -
+        </h1>
         <h4 className="aboutus-content text-indent">
           Welcome to Poke To The Moon, The ultimate destination for poke lovers
           in the city of Orange! Our unique poke shop is dedicated to brining

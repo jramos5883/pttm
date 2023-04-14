@@ -11,7 +11,7 @@ const Home = () => {
         <h3 className="home-opener">
           Delicious Poke only at Poke To The Moon!
         </h3>
-        <h2 className="home-header">What is Poke?</h2>
+        <h2 className="home-header my-headers">- What is Poke? -</h2>
         <h4 className="home-intro text-indent">
           A poke bowl is a Hawaiian dish that typically consists of marinated
           diced raw fish served over a bed of rice with various toppings such as

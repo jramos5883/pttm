@@ -4,4 +4,13 @@
   overflow: hidden;
   border-top: 10px solid black;
   border-bottom: 10px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu-image {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
 }

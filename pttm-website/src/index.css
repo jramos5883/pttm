@@ -21,6 +21,10 @@ body {
   z-index: -1;
 }
 
+h4 {
+  line-height: 2rem;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
@@ -28,4 +32,8 @@ code {
 
 .text-indent {
   text-indent: 30px;
+}
+
+.my-headers {
+  font-family: "Luckiest Guy", cursive;
 }

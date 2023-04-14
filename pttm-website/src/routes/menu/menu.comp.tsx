@@ -8,7 +8,7 @@ const Menu = () => {
     <Fragment>
       <div className="menu-container">
         <img
-          className="container-fluid"
+          className="container-fluid menu-image"
           src="/images/pokemenu.png"
           alt="PokeToTheMoon-Resturant"
         />

@@ -12,7 +12,7 @@ const Navbar = () => {
         <Link className="nav-links" to="aboutus">
           About Us
         </Link>
-        <h1>POKE TO THE MOON</h1>
+        <h1 className="my-headers">- POKE TO THE MOON -</h1>
         <Link className="nav-links" to="menu">
           Menu
         </Link>
