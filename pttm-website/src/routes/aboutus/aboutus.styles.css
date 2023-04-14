@@ -1,0 +1,24 @@
+.aboutus-pic-container {
+  background-color: black;
+  position: relative;
+  overflow: hidden;
+  border-top: 10px solid black;
+  border-bottom: 10px solid black;
+}
+
+.aboutus-content-container {
+  background-color: white;
+  opacity: 0.9;
+  color: black;
+  padding: 2%;
+}
+
+.aboutus-header {
+  text-align: center;
+  justify-content: center;
+}
+
+.aboutus-content {
+  padding-top: 2%;
+  padding-left: 2%;
+}
