@@ -10,4 +10,14 @@
   text-align: center;
   justify-content: center;
   padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.info-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: left;
+  margin-left: 2%;
+  margin-right: 2%;
 }

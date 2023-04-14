@@ -11,17 +11,18 @@ const Location = () => {
         <h2 className="info-header my-headers">- Business Information -</h2>
         <div className="row">
           <div className="col-md-6">
-            <div className="info-content">
-              <h3>Address:</h3>
-              <h4>1500 E Village Way, Ste 2221 Orange, Ca 92865</h4>
+            <div className="info-content container-fluid">
+              <h3 className='my-headers'>Address:</h3>
+              <h4>1500 E Village Way</h4>
+              <h4>Ste 2221 Orange, Ca 92865</h4>
 
-              <h3>Phone Number: </h3>
+              <h3 className='my-headers'>Phone Number: </h3>
               <h4>(657)224-9081</h4>
             </div>
           </div>
           <div className="col-md-6">
-            <div className="hours-container">
-              <h3>Hours of Operation:</h3>
+            <div className="hours-container container-fluid">
+              <h3 className='my-headers'>Hours of Operation:</h3>
               <h4>Monday: 11:00AM - 7:00PM</h4>
               <h4>Tuesday: 11:00AM - 7:00PM</h4>
               <h4>Wensday: 11:00AM - 7:00PM</h4>

@@ -3,7 +3,7 @@ import "./footer.styles.css";
 const Footer = () => {
   return (
     <div className="footer-container container-fluid">
-      <h5 className="media-container">Poke To The Moon Inc.</h5>
+      <h4 className="media-container">Poke To The Moon Inc.</h4>
       <div className="media-container">
         <a href="https://www.tiktok.com/@poketothemoon">
           <i className="fa-brands fa-tiktok fa-2xl"></i>
