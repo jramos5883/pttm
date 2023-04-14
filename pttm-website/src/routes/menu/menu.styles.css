@@ -1,0 +1,7 @@
+.menu-container {
+  background-color: black;
+  position: relative;
+  overflow: hidden;
+  border-top: 10px solid black;
+  border-bottom: 10px solid black;
+}
