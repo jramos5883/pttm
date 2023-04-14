@@ -1,3 +1,4 @@
+import MyMap from "../../components/map/map.comp";
 import Footer from "../../components/footer/footer.comp";
 
 import "./location.styles.css";
@@ -5,6 +6,7 @@ import "./location.styles.css";
 const Location = () => {
   return (
     <div>
+      <MyMap />
       <h2>Business Information</h2>
       <div className="info-content-container">
         <div className="info-content">
