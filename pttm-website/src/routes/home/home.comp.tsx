@@ -8,11 +8,11 @@ const Home = () => {
     <div>
       <Carousel />
       <div className="home-container container-fluid">
-        <h2 className="home-opener">
+        <h3 className="home-opener">
           Delicious Poke only at Poke To The Moon!
-        </h2>
-        <h1 className="home-header">What is Poke?</h1>
-        <p className="home-intro text-indent">
+        </h3>
+        <h2 className="home-header">What is Poke?</h2>
+        <h4 className="home-intro text-indent">
           A poke bowl is a Hawaiian dish that typically consists of marinated
           diced raw fish served over a bed of rice with various toppings such as
           vegatables, fruits, and sauces. It is a healthy and flavorful meal
@@ -22,7 +22,7 @@ const Home = () => {
           traditional flavors with innovative twists, we strive to deliver a
           memorable culinary experience that showcases the best of what poke
           cuisine has to offer.
-        </p>
+        </h4>
       </div>
       <Footer />
     </div>
