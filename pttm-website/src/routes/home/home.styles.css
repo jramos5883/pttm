@@ -1,0 +1,25 @@
+.home-container {
+  background-color: white;
+  opacity: 0.9;
+  color: black;
+  padding: 2%;
+}
+
+.home-header {
+  text-align: center;
+  justify-content: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+.home-intro {
+  padding: 2%;
+  opacity: 1;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.home-opener {
+  padding-left: 4%;
+  margin-bottom: 1%;
+}
