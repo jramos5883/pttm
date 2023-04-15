@@ -17,7 +17,7 @@ const Location = () => {
               <h4>Ste 2221 Orange, Ca 92865</h4>
 
               <h3 className='my-headers'>Phone Number: </h3>
-              <h4>(657)224-9081</h4>
+              <h4>(657) 224-9081</h4>
             </div>
           </div>
           <div className="col-md-6">
